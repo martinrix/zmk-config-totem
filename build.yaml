@@ -5,4 +5,3 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: xiao_ble//zmk
     shield: totem_right
-# there is no settingsreset (needed) for the XIAO
